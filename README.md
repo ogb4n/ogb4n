@@ -2,7 +2,7 @@
 
 - 👋 I’m @ogb4n
 - 👀 I’m interested in IT & Video-Games
-- 🌱 I’m currently learning IT cursus ( Golang atm ) 
+- 🌱 I’m currently following an IT cursus ( Golang & C# atm ) 
 - 📫 My discord : Stabber - Woxy#4066
 
 <!---
