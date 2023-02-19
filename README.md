@@ -2,6 +2,8 @@
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM5NDYzOWRiZmIxMjZhY2U1YWU3OWQ2MTU1MzM1OWJkOWFhYjcyMyZjdD1z/hqaOHloopvGSya7oyC/giphy.gif"/>
 </div>
 
+![GitHub watchers](https://img.shields.io/github/watchers/ogb4n/ogb4n?color=blueviolet&style=for-the-badge)
+
 ### What I'm used to code 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
