@@ -5,8 +5,6 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/ogb4n/ogb4n?color=blueviolet&style=for-the-badge)
 
 ### What I'm used to code 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
 ![BootStrap](https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge) <br>
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge)
@@ -16,7 +14,7 @@
 
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=GNUBash&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+
  <br> <br>
 ### Systems I use
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
