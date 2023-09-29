@@ -4,7 +4,7 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/ogb4n/ogb4n?color=blueviolet&style=for-the-badge)
 
-### What I'm used to code 
+### What I'm used to
 ![BootStrap](https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge) <br>
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge)
