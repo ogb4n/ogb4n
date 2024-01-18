@@ -1,3 +1,10 @@
+Hello, I'm Dhoney, also known as ogb4n and im actually a student in my second year of a developper cursus. <br>
+The projects I post here are all open source and comes from my personnal projects or school projects I want to continue.<br>
+Feel free to pull requests my projects or to text me for a collab ! 
+
+<br>
+<br>
+
 <div id="header" align="center">
   <img align="right" height=400px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExendiNTZzNmIzMXc5c2h2ZHdteTNhZWdvZ20wOTZyN3B1bjlscnF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BiiOx7LG3KcahTIT4z/source.gif"/>
 </div>
@@ -32,4 +39,4 @@
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=CentOS&logoColor=white&style=for-the-badge)<br> <br>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ogb4n&theme=blue-green)        ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogb4n&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=ogb4n&theme=blue-green)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogb4n&theme=blue-green)
