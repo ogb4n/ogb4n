@@ -1,4 +1,4 @@
-Hello, I'm Dhoney, also known as ogb4n and im actually a student in my second year of a developper cursus. <br>
+Hello, I'm Dhoney, im actually a student in my second year of a developper cursus. <br>
 The projects I post here are all open source and comes from my personnal projects or school projects I want to continue.<br>
 Feel free to pull requests my projects or to text me for a collab ! 
 
