@@ -1,8 +1,5 @@
-<div id="header" align="center">
-  <img align="right" height=400px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExendiNTZzNmIzMXc5c2h2ZHdteTNhZWdvZ20wOTZyN3B1bjlscnF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BiiOx7LG3KcahTIT4z/source.gif"/>
-</div>
 
-### What I'm used to
+
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
