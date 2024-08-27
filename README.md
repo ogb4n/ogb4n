@@ -1,10 +1,3 @@
-Hello, Im a french Full-Stack developper <br>
-The projects I post here are my personnal projects.<br>
-Feel free to pull requests or to text me
-
-<br>
-<br>
-
 <div id="header" align="center">
   <img align="right" height=400px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExendiNTZzNmIzMXc5c2h2ZHdteTNhZWdvZ20wOTZyN3B1bjlscnF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BiiOx7LG3KcahTIT4z/source.gif"/>
 </div>
