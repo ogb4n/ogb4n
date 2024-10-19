@@ -1,4 +1,4 @@
-<h1 align='center'>I'm ban, a Fullstack / pentest student</h1>
+<h1 align='center'>I'm ban, a Fullstack / pentest developper</h1>
 <h3 align='center'> ✨✨💻✨✨</h3>
 <h4 align='center'>You'll find my personnal projects here</h4>
 <h4 align='center'>&</h4>
