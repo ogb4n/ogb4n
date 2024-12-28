@@ -1,8 +1,5 @@
 <h1 align='center'>I'm ban, a Fullstack developper / pentester</h1>
 <h3 align='center'> ✨✨💻✨✨</h3>
-<h4 align='center'>You'll find my personnal projects here</h4>
-<h4 align='center'>&</h4>
-<h4 align='center'>you'll see my experiences below</h4>
 
 ### Languages
 <p align="left">
