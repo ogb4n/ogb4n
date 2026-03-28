@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am a Full-Stack Developer with a strong focus on **infrastructure** and **security**. My goal isn't just to make the code work, but to make it **robust, scalable, and secure by design**.
+I am a Full-Stack Developer with a strong focus on **infrastructure** and **security**.
 
 - 🔭 I’m currently working on: **CI/CD Pipeline Automation & Cloud Architecture**
 - 🌱 I’m currently learning: **Advanced Cyberdefense Patterns & Kubernetes**
