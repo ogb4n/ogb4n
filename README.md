@@ -1,4 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0f172a,312e81,4c1d95,2563eb&height=220&section=header&text=OGB4N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20DevOps%20%7C%20SecOps&descAlignY=60&descSize=20)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogb4n&theme=tokyonight" height="170" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogb4n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="170" alt="languages graph" />
+</div>
 
 <div align="center">
 
@@ -19,20 +24,18 @@ I am a Full-Stack Developer with a strong focus on **infrastructure** and **secu
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 ### 💻 Full-Stack Development
 <div align="left">
+  <img src="https://img.shields.io/badge/rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
 ### ♾️ DevOps & Cloud
@@ -54,17 +57,3 @@ I am a Full-Stack Developer with a strong focus on **infrastructure** and **secu
 </div>
 
 ---
-
-## 📊 Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogb4n&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogb4n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="170" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ogb4n&theme=tokyonight" height="170" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogb4n&theme=tokyonight" height="170" />
-</div>
