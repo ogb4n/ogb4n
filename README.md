@@ -1,9 +1,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogb4n&theme=tokyonight" height="170" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogb4n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="170" alt="languages graph" />
-</div>
 
 <div align="center">
 
