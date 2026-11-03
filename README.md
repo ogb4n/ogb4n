@@ -16,8 +16,8 @@
 
 I am a Full-Stack Developer with a strong focus on **infrastructure** and **security**.
 
-- 🔭 I’m currently working on: **CI/CD Pipeline Automation & Cloud Architecture**
-- 🌱 I’m currently learning: **Advanced Cyberdefense Patterns & Kubernetes**
+- 🔭 I’m currently working on: **Cyber Resilience Act appliance **
+- 🌱 I’m currently learning: **AI and automation**
 
 ---
 
