@@ -16,7 +16,7 @@
 
 I am a Full-Stack Developer with a strong focus on **infrastructure** and **security**.
 
-- 🔭 I’m currently working on: **Cyber Resilience Act appliance **
+- 🔭 I’m currently working on: **Cyber Resilience Act application**
 - 🌱 I’m currently learning: **AI and automation**
 
 ---
