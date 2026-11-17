@@ -9,7 +9,7 @@
 <br/>
 
 [![Documentation](https://img.shields.io/badge/DOCS-00F0FF?style=for-the-badge&logo=gitbook&logoColor=black)](https://docs.ogb4n.fr/)
-[![Gaming Profile](https://img.shields.io/badge/GAMING-FF003C?style=for-the-badge&logo=playerdotme&logoColor=white)](https://ogb4n.fr)
+[![Company](https://img.shields.io/badge/GAMING-FF003C?style=for-the-badge&logo=playerdotme&logoColor=white)](https://bantek.ogb4n.fr)
 [![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogb4n)
 
 </div>
@@ -30,6 +30,8 @@ I like understanding what's happening under the hood. From low-level programming
 - `ACTIVE CONTRACT` — Developing a Cyber Resilience Act application.
 - `SIDE QUEST` — Exploring AI, autonomous agents and automation.
 - `PASSIVE OPS` — Building and maintaining self-hosted infrastructure.
+
+<img src="./assets/Neon Netrunner Profile in Night City.png">
 
 ---
 
@@ -127,7 +129,7 @@ Whether it's software engineering, infrastructure, security or something experim
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/▶_VISIT_MY_PORTFOLIO-FCEE0A?style=for-the-badge&logoColor=black)](https://doniban.fr)
+[![Portfolio](https://img.shields.io/badge/▶_VISIT_MY_PORTFOLIO-FCEE0A?style=for-the-badge&logoColor=black)](https://docs.ogb4n.fr)
 
 **DON'T LET THE CORPOS OWN YOUR CODE.**
 
