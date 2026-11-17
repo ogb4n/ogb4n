@@ -1,56 +1,138 @@
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:10202b,100:00f0ff&text=OGB4N&fontColor=FCEE0A&fontSize=80&fontAlignY=45&desc=NETRUNNER%20%7C%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
+
+### `WAKE UP, CHOOM. WE HAVE CODE TO SHIP.`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+systems+that+survive+the+Blackwall.;Infrastructure+is+my+playground.;Securing+the+Net%2C+one+commit+at+a+time.;No+corpos.+No+limits.+Just+code." />
+
+<br/>
+
+[![Documentation](https://img.shields.io/badge/DOCS-00F0FF?style=for-the-badge&logo=gitbook&logoColor=black)](https://docs.ogb4n.fr/)
+[![Gaming Profile](https://img.shields.io/badge/GAMING-FF003C?style=for-the-badge&logo=playerdotme&logoColor=white)](https://ogb4n.fr)
+[![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogb4n)
+
+</div>
+
+---
+
+## `01 //`
+
+> *"In Night City, you either become a legend or another name on a drink."*
+
+I'm **Ban**, a Full-Stack Developer with a strong focus on infrastructure, cybersecurity and system engineering.
+
+I build applications, automate workflows, experiment with emerging technologies and run my own infrastructure.
+
+I like understanding what's happening under the hood. From low-level programming to distributed systems, from application security to self-hosted environments. If it involves making technology work better, I'm probably interested.
+
+**Current gigs:**
+- `ACTIVE CONTRACT` — Developing a Cyber Resilience Act application.
+- `SIDE QUEST` — Exploring AI, autonomous agents and automation.
+- `PASSIVE OPS` — Building and maintaining self-hosted infrastructure.
+
+---
+
+## `02 // CYBERWARE`
+
+*Your chrome is only as good as the code running it.*
+
+### `< SOFTWARE ENGINEERING />`
+
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### `< INFRASTRUCTURE & NETRUNNING />`
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### `< SECURITY & COUNTERMEASURES />`
+
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+![OAuth2](https://img.shields.io/badge/OAuth2-3D4247?style=flat-square&logo=oauth&logoColor=white)
+![SAST](https://img.shields.io/badge/SAST-Security_Analysis-9D4EDD?style=flat-square)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-00F0FF?style=flat-square&logo=hackthebox&logoColor=black)
+
+---
+
+## `03 // GIGS`
+
+*Every legend starts with a side job.*
+
+### `01. ShelfSpot`
+**Personal inventory management // Self-hosted**
+
+A self-hosted application designed to manage and organize your home inventory.
+
+- Full-stack application architecture.
+- Containerized deployment.
+- API-driven architecture.
+
+[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ogb4n/ShelfSpot)
+
+### `02. Homelab Operations`
+**Private infrastructure // Independent network**
+
+Building and maintaining a personal infrastructure environment.
+
+- Self-hosted services and Docker workloads.
+- Monitoring and observability with Grafana.
+- Raspberry Pi-based services and automation.
+- Experimentation with local AI and voice technologies.
+
+### `03. AI & Automation`
+**Experimental R&D // Beyond the Blackwall**
+
+Exploring the possibilities of local AI, speech synthesis and autonomous agents.
+
+- Local LLM and inference experiments.
+- Text-to-speech pipelines.
+- Agent-driven automation.
+- Integration of AI services into existing infrastructure.
+
+---
+
+## `04 // THE AFTERLIFE STATS`
+
+*Street cred is earned, not bought.*
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogb4n&theme=tokyonight" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ogb4n&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FCEE0A&icon_color=00F0FF&text_color=C9D1D9&ring_color=00F0FF" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogb4n&layout=compact&hide_border=true&bg_color=0D1117&title_color=FCEE0A&text_color=C9D1D9" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=ogb4n&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=FCEE0A&currStreakLabel=00F0FF" width="70%" />
+
 </div>
+
+---
+
+## `05 // ESTABLISH CONNECTION`
+
+*Got a gig? Need a reliable netrunner? Let's talk.*
+
+Whether it's software engineering, infrastructure, security or something experimental — I'm always interested in interesting projects.
 
 <div align="center">
 
-<a href="https://doniban.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
-<a href="https://docs.doniban.fr/en" target="_blank"><img src="https://img.shields.io/badge/documentations-100000?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>
-<a href="https://ogb4n.fr" target="_blank"><img src="https://img.shields.io/badge/gamer-profile-100000?style=for-the-badge&logo=playerdotme&logoColor=white" target="_blank"></a>
+[![Portfolio](https://img.shields.io/badge/▶_VISIT_MY_PORTFOLIO-FCEE0A?style=for-the-badge&logoColor=black)](https://doniban.fr)
+
+**DON'T LET THE CORPOS OWN YOUR CODE.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:10202b,100:FCEE0A&height=3&section=footer" width="100%" />
+
+<sub>BUILT FOR NIGHT CITY. · OGB4N © 2026</sub>
 
 </div>
-
----
-
-## 🚀 About Me
-
-I am a Full-Stack Developer with a strong focus on **infrastructure** and **security**.
-
-- 🔭 I’m currently working on: **Cyber Resilience Act application**
-- 🌱 I’m currently learning: **AI and automation**
-
----
-
-## 🛠️ Technical Stack
-
-### 💻 Full-Stack Development
-<div align="left">
-  <img src="https://img.shields.io/badge/rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> -->
-</div>
-
-### ♾️ DevOps & Cloud
-<div align="left">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure_devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-</div>
-
-### 🔒 Cybersecurity & SecOps
-<div align="left">
-  <img src="https://img.shields.io/badge/Vault-FFE01B?style=for-the-badge&logo=vault&logoColor=black" />
-  <img src="https://img.shields.io/badge/OAuth2-3D4247?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAST-Integration-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Secure%20Code-Patterns-success?style=for-the-badge" />
-</div>
-
----
