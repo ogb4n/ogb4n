@@ -31,8 +31,6 @@ I like understanding what's happening under the hood. From low-level programming
 - `SIDE QUEST` — Exploring AI, autonomous agents and automation.
 - `PASSIVE OPS` — Building and maintaining self-hosted infrastructure.
 
-<img src="./assets/Neon Netrunner Profile in Night City.png">
-
 ---
 
 ## `02 // CYBERWARE`
